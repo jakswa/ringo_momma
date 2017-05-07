@@ -1,0 +1,22 @@
+{
+  "name": "ringo_momma",
+  "version": "0.0.2",
+  "description": "Basic NPM module showing how to make a Ringobot plugin",
+  "main": "ringo_momma.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jakswa/ringo_momma.git"
+  },
+  "author": "Jake Swanson <jakswa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakswa/ringo_momma/issues"
+  },
+  "homepage": "https://github.com/jakswa/ringo_momma#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
